@@ -20,7 +20,7 @@ def target():
 
     if target:
         # Providing the API key
-        api_key = "your-api-key"
+        api_key = "7l0b0yzk3yZcpOqgjsrLI8l3EsIzRlHWBtDOHSg3P2rW2uR4gq"
 
         # Initializing object of youtube class
         target_analysis = yt(api_key)
